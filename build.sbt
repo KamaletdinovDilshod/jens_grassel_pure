@@ -7,7 +7,7 @@ ThisBuild / scalaVersion := "2.13.14"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "KD_JensGrassel",
+    name := "jens_grassel_pure",
     testFrameworks += new TestFramework("weaver.framework.CatsEffect")
   )
   .aggregate(

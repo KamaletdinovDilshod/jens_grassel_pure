@@ -49,7 +49,7 @@ To run this project, you'll need to have [Scala](https://www.scala-lang.org/) an
 ### Prerequisites
 
 - Scala 2.13.x
-- SBT 1.5+
+- SBT 1.9+
 - PostgreSQL
 
 ### Clone the Repository
