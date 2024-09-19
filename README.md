@@ -1,6 +1,3 @@
-Here's a sample `README.md` for your **Jens Grassel Pure** project, which appears to be a Scala-based web service project with cats-effect, http4s, Doobie, and other technologies:
-
-```markdown
 # Jens Grassel Pure
 
 A web service project built with Scala, leveraging modern functional programming libraries such as Cats Effect, http4s, Doobie, and PureConfig.
