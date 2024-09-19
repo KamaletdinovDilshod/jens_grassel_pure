@@ -133,7 +133,6 @@ sbt test
 - `POST /products` - Create a new product
 - `GET /products/{id}` - Get details of a product by ID
 - `PUT /products/{id}` - Update a product by ID
-- `DELETE /products/{id}` - Delete a product by ID
 
 ## Logging
 
