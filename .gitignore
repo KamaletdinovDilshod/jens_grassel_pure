@@ -7,3 +7,5 @@
 /.bsp/sbt.json
 /.bsp/
 /.idea/
+/integration/target/
+/pure/target/
